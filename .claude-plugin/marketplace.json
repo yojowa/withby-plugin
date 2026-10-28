@@ -1,0 +1,17 @@
+{
+  "name": "withby",
+  "owner": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com"
+  },
+  "metadata": {
+    "description": "WithBy for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "withby",
+      "source": "./",
+      "description": "Washington's mountain-pass conditions, checked every few minutes, and hundreds of short stories about the places along the road, told by Sal, WithBy's narrator."
+    }
+  ]
+}

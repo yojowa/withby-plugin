@@ -1,0 +1,11 @@
+{
+  "name": "withby",
+  "version": "1.0.0",
+  "description": "Washington's mountain-pass conditions, checked every few minutes, and hundreds of short stories about the places along the road, told by Sal, WithBy's narrator.",
+  "mcpServers": {
+    "withby": {
+      "httpUrl": "https://withby.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
