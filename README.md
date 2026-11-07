@@ -62,6 +62,10 @@ gemini extensions install https://github.com/yojowa/withby-plugin
 
 **ChatGPT, Claude, the Gemini app and other assistants:** see [withby.ai/assistants](https://withby.ai/assistants).
 
+## The server
+
+WithBy's MCP server is hosted at `https://withby.ai/mcp` (streamable HTTP; registry name `ai.withby/withby`). The server's code is not public. This repository holds the client plugin configuration for Cursor, Claude Code and Gemini CLI, and it is the place to report issues or ask questions about the WithBy connector. You can also write to support@withby.ai.
+
 ## Signing in
 
 The tools marked "yes" need a WithBy account. The first time you use one, your agent opens WithBy's sign-in page, and you choose whether to let it use your account. The other tools work without signing in. You can disconnect at any time from your WithBy profile.
